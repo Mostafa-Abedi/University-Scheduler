@@ -13,6 +13,5 @@ This command changes the directory to your client directory where your applicati
 ## Step 2: Run App
 
 ```bash
-npm install
 npm run
 ```
